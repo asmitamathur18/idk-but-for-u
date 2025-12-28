@@ -1,4 +1,4 @@
-const text = "Hey, I made this for you 💗";
+const text = "for you 💗";
 const message = "Just thought you should know — you’re special.";
 
 let i = 0;
@@ -22,3 +22,4 @@ function typeMessage() {
 
 typeTitle();
 setTimeout(typeMessage, 2000);
+
